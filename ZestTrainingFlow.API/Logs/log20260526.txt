@@ -1,0 +1,64 @@
+2026-05-26 18:48:17.264 +05:30 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2026-05-26 18:48:18.229 +05:30 [DBG] Entity Framework Core 8.0.3 initialized 'MyDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.3' with options: None
+2026-05-26 18:48:18.250 +05:30 [DBG] 'MyDbContext' disposed.
+2026-05-26 18:49:38.967 +05:30 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2026-05-26 18:49:39.666 +05:30 [DBG] Entity Framework Core 8.0.3 initialized 'MyDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.3' with options: None
+2026-05-26 18:49:39.687 +05:30 [DBG] 'MyDbContext' disposed.
+2026-05-26 18:51:04.988 +05:30 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2026-05-26 18:51:05.698 +05:30 [DBG] Entity Framework Core 8.0.3 initialized 'MyDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.3' with options: None
+2026-05-26 18:51:05.722 +05:30 [DBG] 'MyDbContext' disposed.
+2026-05-26 18:55:19.704 +05:30 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2026-05-26 18:55:20.388 +05:30 [DBG] Entity Framework Core 8.0.3 initialized 'MyDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.3' with options: MigrationsAssembly=ZestTrainingFlow.API 
+2026-05-26 18:55:21.341 +05:30 [DBG] 'MyDbContext' disposed.
+2026-05-26 18:56:24.103 +05:30 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2026-05-26 18:56:24.819 +05:30 [DBG] Entity Framework Core 8.0.3 initialized 'MyDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.3' with options: MigrationsAssembly=ZestTrainingFlow.API 
+2026-05-26 18:56:25.440 +05:30 [DBG] Creating DbConnection.
+2026-05-26 18:56:25.495 +05:30 [DBG] Created DbConnection. (54ms).
+2026-05-26 18:56:25.499 +05:30 [DBG] Opening connection to database 'model' on server 'localhost\sqlexpress'.
+2026-05-26 18:56:25.869 +05:30 [DBG] Opened connection to database 'model' on server 'localhost\sqlexpress'.
+2026-05-26 18:56:25.877 +05:30 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2026-05-26 18:56:25.884 +05:30 [DBG] Created DbCommand for 'ExecuteNonQuery' (7ms).
+2026-05-26 18:56:25.886 +05:30 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (12ms).
+2026-05-26 18:56:25.894 +05:30 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2026-05-26 18:56:25.937 +05:30 [INF] Executed DbCommand (40ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2026-05-26 18:56:25.939 +05:30 [DBG] Closing connection to database 'model' on server 'localhost\sqlexpress'.
+2026-05-26 18:56:25.948 +05:30 [DBG] Closed connection to database 'model' on server 'localhost\sqlexpress' (4ms).
+2026-05-26 18:56:25.951 +05:30 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2026-05-26 18:56:25.951 +05:30 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2026-05-26 18:56:25.951 +05:30 [DBG] Initialized DbCommand for 'ExecuteScalar' (0ms).
+2026-05-26 18:56:25.951 +05:30 [DBG] Opening connection to database 'model' on server 'localhost\sqlexpress'.
+2026-05-26 18:56:25.952 +05:30 [DBG] Opened connection to database 'model' on server 'localhost\sqlexpress'.
+2026-05-26 18:56:25.952 +05:30 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2026-05-26 18:56:25.979 +05:30 [INF] Executed DbCommand (26ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2026-05-26 18:56:25.979 +05:30 [DBG] Closing connection to database 'model' on server 'localhost\sqlexpress'.
+2026-05-26 18:56:25.979 +05:30 [DBG] Closed connection to database 'model' on server 'localhost\sqlexpress' (0ms).
+2026-05-26 18:56:25.998 +05:30 [DBG] Opening connection to database 'model' on server 'localhost\sqlexpress'.
+2026-05-26 18:56:25.998 +05:30 [DBG] Opened connection to database 'model' on server 'localhost\sqlexpress'.
+2026-05-26 18:56:25.998 +05:30 [DBG] Creating DbCommand for 'ExecuteReader'.
+2026-05-26 18:56:25.998 +05:30 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2026-05-26 18:56:25.998 +05:30 [DBG] Initialized DbCommand for 'ExecuteReader' (0ms).
+2026-05-26 18:56:25.999 +05:30 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2026-05-26 18:56:26.008 +05:30 [INF] Executed DbCommand (9ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2026-05-26 18:56:26.011 +05:30 [DBG] Closing data reader to 'model' on server 'localhost\sqlexpress'.
+2026-05-26 18:56:26.012 +05:30 [DBG] A data reader for 'model' on server 'localhost\sqlexpress' is being disposed after spending 2ms reading results.
+2026-05-26 18:56:26.012 +05:30 [DBG] Closing connection to database 'model' on server 'localhost\sqlexpress'.
+2026-05-26 18:56:26.012 +05:30 [DBG] Closed connection to database 'model' on server 'localhost\sqlexpress' (0ms).
+2026-05-26 18:56:26.019 +05:30 [DBG] 'MyDbContext' disposed.
+2026-05-26 18:56:26.021 +05:30 [DBG] Disposing connection to database 'model' on server 'localhost\sqlexpress'.
+2026-05-26 18:56:26.022 +05:30 [DBG] Disposed connection to database '' on server '' (0ms).
+2026-05-26 18:56:55.265 +05:30 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2026-05-26 18:56:55.945 +05:30 [DBG] Entity Framework Core 8.0.3 initialized 'MyDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.3' with options: MigrationsAssembly=ZestTrainingFlow.Infrastructure 
+2026-05-26 18:56:55.964 +05:30 [DBG] 'MyDbContext' disposed.
+2026-05-26 18:57:51.543 +05:30 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2026-05-26 18:57:52.356 +05:30 [DBG] Entity Framework Core 8.0.3 initialized 'MyDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.3' with options: MigrationsAssembly=ZestTrainingFlow.API 
+2026-05-26 18:57:53.153 +05:30 [DBG] 'MyDbContext' disposed.

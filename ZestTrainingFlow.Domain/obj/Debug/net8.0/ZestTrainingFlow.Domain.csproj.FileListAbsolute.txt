@@ -1,0 +1,13 @@
+D:\MyTask_ZEST\ZestTrainingFlow.API\ZestTrainingFlow.Domain\bin\Debug\net8.0\ZestTrainingFlow.Domain.deps.json
+D:\MyTask_ZEST\ZestTrainingFlow.API\ZestTrainingFlow.Domain\bin\Debug\net8.0\ZestTrainingFlow.Domain.dll
+D:\MyTask_ZEST\ZestTrainingFlow.API\ZestTrainingFlow.Domain\bin\Debug\net8.0\ZestTrainingFlow.Domain.pdb
+D:\MyTask_ZEST\ZestTrainingFlow.API\ZestTrainingFlow.Domain\obj\Debug\net8.0\ZestTrainingFlow.Domain.csproj.AssemblyReference.cache
+D:\MyTask_ZEST\ZestTrainingFlow.API\ZestTrainingFlow.Domain\obj\Debug\net8.0\ZestTrainingFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyTask_ZEST\ZestTrainingFlow.API\ZestTrainingFlow.Domain\obj\Debug\net8.0\ZestTrainingFlow.Domain.AssemblyInfoInputs.cache
+D:\MyTask_ZEST\ZestTrainingFlow.API\ZestTrainingFlow.Domain\obj\Debug\net8.0\ZestTrainingFlow.Domain.AssemblyInfo.cs
+D:\MyTask_ZEST\ZestTrainingFlow.API\ZestTrainingFlow.Domain\obj\Debug\net8.0\ZestTrainingFlow.Domain.csproj.CoreCompileInputs.cache
+D:\MyTask_ZEST\ZestTrainingFlow.API\ZestTrainingFlow.Domain\obj\Debug\net8.0\ZestTrainingFlow.Domain.sourcelink.json
+D:\MyTask_ZEST\ZestTrainingFlow.API\ZestTrainingFlow.Domain\obj\Debug\net8.0\ZestTrainingFlow.Domain.dll
+D:\MyTask_ZEST\ZestTrainingFlow.API\ZestTrainingFlow.Domain\obj\Debug\net8.0\refint\ZestTrainingFlow.Domain.dll
+D:\MyTask_ZEST\ZestTrainingFlow.API\ZestTrainingFlow.Domain\obj\Debug\net8.0\ZestTrainingFlow.Domain.pdb
+D:\MyTask_ZEST\ZestTrainingFlow.API\ZestTrainingFlow.Domain\obj\Debug\net8.0\ref\ZestTrainingFlow.Domain.dll

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZestTrainingFlow.API", "ZestTrainingFlow.API\ZestTrainingFlow.API.csproj", "{B8FFD700-A7B7-4145-AA7C-79C7BD4C0C50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZestTrainingFlow.Domain", "ZestTrainingFlow.Domain\ZestTrainingFlow.Domain.csproj", "{7BF7AFE5-23BC-426F-B611-D06522FF7645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZestTrainingFlow.Application", "ZestTrainingFlow.Application\ZestTrainingFlow.Application.csproj", "{23370CE4-442D-4BF4-B302-DE7563024622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZestTrainingFlow.Infrastructure", "ZestTrainingFlow.Infrastructure\ZestTrainingFlow.Infrastructure.csproj", "{F64F81C0-2AAC-437D-B148-EBAA3CAE85ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8FFD700-A7B7-4145-AA7C-79C7BD4C0C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FFD700-A7B7-4145-AA7C-79C7BD4C0C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FFD700-A7B7-4145-AA7C-79C7BD4C0C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FFD700-A7B7-4145-AA7C-79C7BD4C0C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF7AFE5-23BC-426F-B611-D06522FF7645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF7AFE5-23BC-426F-B611-D06522FF7645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF7AFE5-23BC-426F-B611-D06522FF7645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF7AFE5-23BC-426F-B611-D06522FF7645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23370CE4-442D-4BF4-B302-DE7563024622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23370CE4-442D-4BF4-B302-DE7563024622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23370CE4-442D-4BF4-B302-DE7563024622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23370CE4-442D-4BF4-B302-DE7563024622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F64F81C0-2AAC-437D-B148-EBAA3CAE85ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64F81C0-2AAC-437D-B148-EBAA3CAE85ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64F81C0-2AAC-437D-B148-EBAA3CAE85ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64F81C0-2AAC-437D-B148-EBAA3CAE85ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E58078B-74C9-47B4-A665-AE51183ADAD8}
+	EndGlobalSection
+EndGlobal
