@@ -1,0 +1,211 @@
+[
+  {
+    "ContainingType": "CleanArchitectureDemo.API.Controllers.EmployeeController",
+    "Method": "GetEmployeesAutoMapper",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitectureDemo.API.Controllers.EmployeeController",
+    "Method": "GetEmployeesById",
+    "RelativePath": "api/Employee/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitectureDemo.API.Controllers.EmployeeController",
+    "Method": "AddDepartment",
+    "RelativePath": "api/Employee/AddDepartment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createEmployeeDTO",
+        "Type": "CleanArchitectureDemo.Application.DTOs.DepartmentDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitectureDemo.API.Controllers.EmployeeController",
+    "Method": "AddEmployee",
+    "RelativePath": "api/Employee/AddEmployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CleanArchitectureDemo.Application.DTOs.EmployeeDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitectureDemo.API.Controllers.EmployeeController",
+    "Method": "AddEmployeeRoleBased",
+    "RelativePath": "api/Employee/AddEmployeeRoleBased",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeDTO",
+        "Type": "CleanArchitectureDemo.Application.DTOs.EmployeeDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitectureDemo.API.Controllers.EmployeeController",
+    "Method": "AdminAPI",
+    "RelativePath": "api/Employee/AdminAPI",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitectureDemo.API.Controllers.EmployeeController",
+    "Method": "ExceptionMiddlewareTestError",
+    "RelativePath": "api/Employee/ExceptionMiddlewareTestError",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitectureDemo.API.Controllers.EmployeeController",
+    "Method": "GetAllEmployees",
+    "RelativePath": "api/Employee/GetAllEmployees",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitectureDemo.API.Controllers.EmployeeController",
+    "Method": "GetDepartments12",
+    "RelativePath": "api/Employee/GetDepartments12",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitectureDemo.API.Controllers.EmployeeController",
+    "Method": "GetDepartmets",
+    "RelativePath": "api/Employee/GetDepartmets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitectureDemo.API.Controllers.EmployeeController",
+    "Method": "InsertDept",
+    "RelativePath": "api/Employee/InsertDept",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "department",
+        "Type": "CleanArchitectureDemo.Domain.Entities.Department",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitectureDemo.API.Controllers.EmployeeController",
+    "Method": "JWTtokenUsers",
+    "RelativePath": "api/Employee/JWTtokenUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitectureDemo.API.Controllers.EmployeeController",
+    "Method": "Login1",
+    "RelativePath": "api/Employee/Login1",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDTO",
+        "Type": "CleanArchitectureDemo.Application.DTOs.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitectureDemo.API.Controllers.EmployeeController",
+    "Method": "TestMiddleware",
+    "RelativePath": "api/Employee/TestMidleware",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArchitectureDemo.API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CleanArchitectureDemo.API.WeatherForecast, CleanArchitectureDemo.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

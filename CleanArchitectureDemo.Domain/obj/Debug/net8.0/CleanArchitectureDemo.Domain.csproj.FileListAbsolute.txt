@@ -1,0 +1,12 @@
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Domain\bin\Debug\net8.0\CleanArchitectureDemo.Domain.deps.json
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Domain\bin\Debug\net8.0\CleanArchitectureDemo.Domain.dll
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Domain\bin\Debug\net8.0\CleanArchitectureDemo.Domain.pdb
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Domain\obj\Debug\net8.0\CleanArchitectureDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Domain\obj\Debug\net8.0\CleanArchitectureDemo.Domain.AssemblyInfoInputs.cache
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Domain\obj\Debug\net8.0\CleanArchitectureDemo.Domain.AssemblyInfo.cs
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Domain\obj\Debug\net8.0\CleanArchitectureDemo.Domain.csproj.CoreCompileInputs.cache
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Domain\obj\Debug\net8.0\CleanArchitectureDemo.Domain.sourcelink.json
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Domain\obj\Debug\net8.0\CleanArchitectureDemo.Domain.dll
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Domain\obj\Debug\net8.0\refint\CleanArchitectureDemo.Domain.dll
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Domain\obj\Debug\net8.0\CleanArchitectureDemo.Domain.pdb
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Domain\obj\Debug\net8.0\ref\CleanArchitectureDemo.Domain.dll

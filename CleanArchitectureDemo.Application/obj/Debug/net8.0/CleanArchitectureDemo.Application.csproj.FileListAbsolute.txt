@@ -1,0 +1,16 @@
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Application\bin\Debug\net8.0\CleanArchitectureDemo.Application.deps.json
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Application\bin\Debug\net8.0\CleanArchitectureDemo.Application.dll
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Application\bin\Debug\net8.0\CleanArchitectureDemo.Application.pdb
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Application\bin\Debug\net8.0\CleanArchitectureDemo.Domain.dll
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Application\bin\Debug\net8.0\CleanArchitectureDemo.Domain.pdb
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Application\obj\Debug\net8.0\CleanArchitectureDemo.Application.csproj.AssemblyReference.cache
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Application\obj\Debug\net8.0\CleanArchitectureDemo.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Application\obj\Debug\net8.0\CleanArchitectureDemo.Application.AssemblyInfoInputs.cache
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Application\obj\Debug\net8.0\CleanArchitectureDemo.Application.AssemblyInfo.cs
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Application\obj\Debug\net8.0\CleanArchitectureDemo.Application.csproj.CoreCompileInputs.cache
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Application\obj\Debug\net8.0\CleanArchitectureDemo.Application.sourcelink.json
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Application\obj\Debug\net8.0\CleanArc.B82A0A37.Up2Date
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Application\obj\Debug\net8.0\CleanArchitectureDemo.Application.dll
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Application\obj\Debug\net8.0\refint\CleanArchitectureDemo.Application.dll
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Application\obj\Debug\net8.0\CleanArchitectureDemo.Application.pdb
+D:\MyTask_ZEST\CleanArchitectureDemo.API\CleanArchitectureDemo.Application\obj\Debug\net8.0\ref\CleanArchitectureDemo.Application.dll

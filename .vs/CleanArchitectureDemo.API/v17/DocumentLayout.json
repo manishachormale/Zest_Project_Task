@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F315E15-7242-4C61-B455-4032C75A967E}|CleanArchitectureDemo.API\\CleanArchitectureDemo.API.csproj|d:\\mytask_zest\\cleanarchitecturedemo.api\\cleanarchitecturedemo.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F315E15-7242-4C61-B455-4032C75A967E}|CleanArchitectureDemo.API\\CleanArchitectureDemo.API.csproj|solutionrelative:cleanarchitecturedemo.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F315E15-7242-4C61-B455-4032C75A967E}|CleanArchitectureDemo.API\\CleanArchitectureDemo.API.csproj|d:\\mytask_zest\\cleanarchitecturedemo.api\\cleanarchitecturedemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F315E15-7242-4C61-B455-4032C75A967E}|CleanArchitectureDemo.API\\CleanArchitectureDemo.API.csproj|solutionrelative:cleanarchitecturedemo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F315E15-7242-4C61-B455-4032C75A967E}|CleanArchitectureDemo.API\\CleanArchitectureDemo.API.csproj|d:\\mytask_zest\\cleanarchitecturedemo.api\\cleanarchitecturedemo.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F315E15-7242-4C61-B455-4032C75A967E}|CleanArchitectureDemo.API\\CleanArchitectureDemo.API.csproj|solutionrelative:cleanarchitecturedemo.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F315E15-7242-4C61-B455-4032C75A967E}|CleanArchitectureDemo.API\\CleanArchitectureDemo.API.csproj|d:\\mytask_zest\\cleanarchitecturedemo.api\\cleanarchitecturedemo.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F315E15-7242-4C61-B455-4032C75A967E}|CleanArchitectureDemo.API\\CleanArchitectureDemo.API.csproj|solutionrelative:cleanarchitecturedemo.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F315E15-7242-4C61-B455-4032C75A967E}|CleanArchitectureDemo.API\\CleanArchitectureDemo.API.csproj|d:\\mytask_zest\\cleanarchitecturedemo.api\\cleanarchitecturedemo.api\\middleware\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F315E15-7242-4C61-B455-4032C75A967E}|CleanArchitectureDemo.API\\CleanArchitectureDemo.API.csproj|solutionrelative:cleanarchitecturedemo.api\\middleware\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F315E15-7242-4C61-B455-4032C75A967E}|CleanArchitectureDemo.API\\CleanArchitectureDemo.API.csproj|d:\\mytask_zest\\cleanarchitecturedemo.api\\cleanarchitecturedemo.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F315E15-7242-4C61-B455-4032C75A967E}|CleanArchitectureDemo.API\\CleanArchitectureDemo.API.csproj|solutionrelative:cleanarchitecturedemo.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7263C2-9A16-4029-8F8C-6DC4B204426D}|CleanArchitectureDemo.Infrastructure\\CleanArchitectureDemo.Infrastructure.csproj|d:\\mytask_zest\\cleanarchitecturedemo.api\\cleanarchitecturedemo.infrastructure\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7263C2-9A16-4029-8F8C-6DC4B204426D}|CleanArchitectureDemo.Infrastructure\\CleanArchitectureDemo.Infrastructure.csproj|solutionrelative:cleanarchitecturedemo.infrastructure\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF0C76-975C-4F6C-A01B-717E8C0102B9}|CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj|d:\\mytask_zest\\cleanarchitecturedemo.api\\cleanarchitecturedemo.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF0C76-975C-4F6C-A01B-717E8C0102B9}|CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj|solutionrelative:cleanarchitecturedemo.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF0C76-975C-4F6C-A01B-717E8C0102B9}|CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj|d:\\mytask_zest\\cleanarchitecturedemo.api\\cleanarchitecturedemo.domain\\entities\\usercqrs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF0C76-975C-4F6C-A01B-717E8C0102B9}|CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj|solutionrelative:cleanarchitecturedemo.domain\\entities\\usercqrs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F315E15-7242-4C61-B455-4032C75A967E}|CleanArchitectureDemo.API\\CleanArchitectureDemo.API.csproj|d:\\mytask_zest\\cleanarchitecturedemo.api\\cleanarchitecturedemo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F315E15-7242-4C61-B455-4032C75A967E}|CleanArchitectureDemo.API\\CleanArchitectureDemo.API.csproj|solutionrelative:cleanarchitecturedemo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F315E15-7242-4C61-B455-4032C75A967E}|CleanArchitectureDemo.API\\CleanArchitectureDemo.API.csproj|d:\\mytask_zest\\cleanarchitecturedemo.api\\cleanarchitecturedemo.api\\cleanarchitecturedemo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F315E15-7242-4C61-B455-4032C75A967E}|CleanArchitectureDemo.API\\CleanArchitectureDemo.API.csproj|solutionrelative:cleanarchitecturedemo.api\\cleanarchitecturedemo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF0C76-975C-4F6C-A01B-717E8C0102B9}|CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj|d:\\mytask_zest\\cleanarchitecturedemo.api\\cleanarchitecturedemo.domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF0C76-975C-4F6C-A01B-717E8C0102B9}|CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj|solutionrelative:cleanarchitecturedemo.domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790A6477-4E1A-4978-AAB1-64488614D661}|CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj|d:\\mytask_zest\\cleanarchitecturedemo.api\\cleanarchitecturedemo.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790A6477-4E1A-4978-AAB1-64488614D661}|CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj|solutionrelative:cleanarchitecturedemo.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790A6477-4E1A-4978-AAB1-64488614D661}|CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj|d:\\mytask_zest\\cleanarchitecturedemo.api\\cleanarchitecturedemo.application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790A6477-4E1A-4978-AAB1-64488614D661}|CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj|solutionrelative:cleanarchitecturedemo.application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790A6477-4E1A-4978-AAB1-64488614D661}|CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj|d:\\mytask_zest\\cleanarchitecturedemo.api\\cleanarchitecturedemo.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790A6477-4E1A-4978-AAB1-64488614D661}|CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj|solutionrelative:cleanarchitecturedemo.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790A6477-4E1A-4978-AAB1-64488614D661}|CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj|d:\\mytask_zest\\cleanarchitecturedemo.api\\cleanarchitecturedemo.application\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790A6477-4E1A-4978-AAB1-64488614D661}|CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj|solutionrelative:cleanarchitecturedemo.application\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790A6477-4E1A-4978-AAB1-64488614D661}|CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj|d:\\mytask_zest\\cleanarchitecturedemo.api\\cleanarchitecturedemo.application\\cleanarchitecturedemo.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{790A6477-4E1A-4978-AAB1-64488614D661}|CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj|solutionrelative:cleanarchitecturedemo.application\\cleanarchitecturedemo.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7263C2-9A16-4029-8F8C-6DC4B204426D}|CleanArchitectureDemo.Infrastructure\\CleanArchitectureDemo.Infrastructure.csproj|d:\\mytask_zest\\cleanarchitecturedemo.api\\cleanarchitecturedemo.infrastructure\\cleanarchitecturedemo.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD7263C2-9A16-4029-8F8C-6DC4B204426D}|CleanArchitectureDemo.Infrastructure\\CleanArchitectureDemo.Infrastructure.csproj|solutionrelative:cleanarchitecturedemo.infrastructure\\cleanarchitecturedemo.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF0C76-975C-4F6C-A01B-717E8C0102B9}|CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj|d:\\mytask_zest\\cleanarchitecturedemo.api\\cleanarchitecturedemo.domain\\cleanarchitecturedemo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14CF0C76-975C-4F6C-A01B-717E8C0102B9}|CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj|solutionrelative:cleanarchitecturedemo.domain\\cleanarchitecturedemo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7263C2-9A16-4029-8F8C-6DC4B204426D}|CleanArchitectureDemo.Infrastructure\\CleanArchitectureDemo.Infrastructure.csproj|d:\\mytask_zest\\cleanarchitecturedemo.api\\cleanarchitecturedemo.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7263C2-9A16-4029-8F8C-6DC4B204426D}|CleanArchitectureDemo.Infrastructure\\CleanArchitectureDemo.Infrastructure.csproj|solutionrelative:cleanarchitecturedemo.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CF0C76-975C-4F6C-A01B-717E8C0102B9}|CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj|d:\\mytask_zest\\cleanarchitecturedemo.api\\cleanarchitecturedemo.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CF0C76-975C-4F6C-A01B-717E8C0102B9}|CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj|solutionrelative:cleanarchitecturedemo.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureDemo.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "CleanArchitectureDemo.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T09:30:52.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.API\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureDemo.API\\Program.cs",
+              "ToolTip": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.API\\Program.cs",
+              "RelativeToolTip": "CleanArchitectureDemo.API\\Program.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAhwIUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:48:31.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureDemo.API\\WeatherForecast.cs",
+              "ToolTip": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.API\\WeatherForecast.cs",
+              "RelativeToolTip": "CleanArchitectureDemo.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:48:30.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureDemo.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CleanArchitectureDemo.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAAAA0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:42:42.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureDemo.API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CleanArchitectureDemo.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:44:31.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomMiddleware.cs",
+              "DocumentMoniker": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.API\\Middleware\\CustomMiddleware.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureDemo.API\\Middleware\\CustomMiddleware.cs",
+              "ToolTip": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.API\\Middleware\\CustomMiddleware.cs",
+              "RelativeToolTip": "CleanArchitectureDemo.API\\Middleware\\CustomMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:46:37.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Infrastructure\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureDemo.Infrastructure\\Data\\MyDbContext.cs",
+              "ToolTip": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Infrastructure\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "CleanArchitectureDemo.Infrastructure\\Data\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:51:01.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureDemo.Domain\\Entities\\Employee.cs",
+              "ToolTip": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "CleanArchitectureDemo.Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:21:45.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserCQRS.cs",
+              "DocumentMoniker": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Domain\\Entities\\UserCQRS.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureDemo.Domain\\Entities\\UserCQRS.cs",
+              "ToolTip": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Domain\\Entities\\UserCQRS.cs",
+              "RelativeToolTip": "CleanArchitectureDemo.Domain\\Entities\\UserCQRS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:23:44.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArchitectureDemo.API\\appsettings.json",
+              "ToolTip": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.API\\appsettings.json",
+              "RelativeToolTip": "CleanArchitectureDemo.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-27T05:47:14.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CleanArchitectureDemo.API",
+              "DocumentMoniker": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.API\\CleanArchitectureDemo.API.csproj",
+              "RelativeDocumentMoniker": "CleanArchitectureDemo.API\\CleanArchitectureDemo.API.csproj",
+              "ToolTip": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.API\\CleanArchitectureDemo.API.csproj",
+              "RelativeToolTip": "CleanArchitectureDemo.API\\CleanArchitectureDemo.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-27T04:51:14.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Domain\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureDemo.Domain\\Entities\\Department.cs",
+              "ToolTip": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Domain\\Entities\\Department.cs",
+              "RelativeToolTip": "CleanArchitectureDemo.Domain\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:19:28.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureDemo.Application\\Class1.cs",
+              "ToolTip": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Application\\Class1.cs",
+              "RelativeToolTip": "CleanArchitectureDemo.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T04:48:45.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Application\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureDemo.Application\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Application\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "CleanArchitectureDemo.Application\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:39:37.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Application\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureDemo.Application\\DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Application\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "CleanArchitectureDemo.Application\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:40:38.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Application\\DTOs\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureDemo.Application\\DTOs\\DepartmentDTO.cs",
+              "ToolTip": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Application\\DTOs\\DepartmentDTO.cs",
+              "RelativeToolTip": "CleanArchitectureDemo.Application\\DTOs\\DepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:38:59.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CleanArchitectureDemo.Application",
+              "DocumentMoniker": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj",
+              "RelativeDocumentMoniker": "CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj",
+              "ToolTip": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj",
+              "RelativeToolTip": "CleanArchitectureDemo.Application\\CleanArchitectureDemo.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-27T04:49:51.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CleanArchitectureDemo.Infrastructure",
+              "DocumentMoniker": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Infrastructure\\CleanArchitectureDemo.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CleanArchitectureDemo.Infrastructure\\CleanArchitectureDemo.Infrastructure.csproj",
+              "ToolTip": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Infrastructure\\CleanArchitectureDemo.Infrastructure.csproj",
+              "RelativeToolTip": "CleanArchitectureDemo.Infrastructure\\CleanArchitectureDemo.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-27T04:50:29.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CleanArchitectureDemo.Domain",
+              "DocumentMoniker": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj",
+              "RelativeDocumentMoniker": "CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj",
+              "ToolTip": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj",
+              "RelativeToolTip": "CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-27T04:52:27.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureDemo.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "CleanArchitectureDemo.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T04:49:22.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureDemo.Domain\\Class1.cs",
+              "ToolTip": "D:\\MyTask_ZEST\\CleanArchitectureDemo.API\\CleanArchitectureDemo.Domain\\Class1.cs",
+              "RelativeToolTip": "CleanArchitectureDemo.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T04:48:06.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
